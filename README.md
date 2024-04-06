@@ -3,7 +3,7 @@ In diesem Repository befinden sich die LabVIEW Programme, sowie Packages und Tre
 
 Das Programm läuft mit LabVIEW 2023 Q3 32 Bit Version - LabVIEW kann hier https://www.ni.com/de/support/downloads/software-products/download.labview.html#485553 heruntergeladen werden.
 
-## HBM-LabVIEW Treiber installieren (Liznez!)
+## HBM-LabVIEW Treiber installieren (Lizenz!)
 HBM-LabVIEW-Driver-4-Setup-for-LabVIEW-32Bit.zip entpacken und HBM-LabVIEW-Driver-4-Setup-for-LabVIEW-32Bit.exe ausführen, um die Treiber zu installieren. Beim Herunterladen wird auto-
 matisch eine 30-Tage Lizenz mit abgespeichert.  Nach dem Erwerb einer Lizenz muss die .licence Datei der 30-Tage Testlizenz durch die vollwertige Lizenz im Ordnerverzeichnis (z.B. C:\ProgramFiles(x86)\NationalInstruments\LabVIEW2023\user.lib\HBMLabVIEWDriver\DLLs) ersetzt werden.
 
